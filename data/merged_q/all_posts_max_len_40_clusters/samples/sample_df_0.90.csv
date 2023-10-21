@@ -1,0 +1,101 @@
+id,summarized,text,root,length
+7bi34h,0,Tell me about your day please.,tell,7
+hm3ya6,0,Tell me about your day,tell,5
+dnr3cw,1,tell me about your day.,tell,6
+77z3kl,1,Please tell me something good about your day.,tell,9
+6s17lb,1,Tell me something interesting about your day.,tell,8
+g65ru6,1,Tell me about your day!,tell,6
+etvhcd,0,Tell me about your day!,tell,6
+83knho,0,Tell me about your day!,tell,6
+f9yefw,0,Tell me about your day guys.,tell,7
+6567lj,1,Tell me something interesting about your day?,tell,8
+do1oiv,1,Ask me anything,ask,3
+izruce,0,Ask Me Anything,ask,3
+8qsxks,1,Ask me anything.,ask,4
+66npq8,1,Ask me anything.,ask,4
+71qshm,0,Ask me anything,ask,3
+irbcbo,1,Ask me anything,ask,3
+7zupn7,1,Ask me anything.,ask,4
+98n3dl,1,Ask me anything.,ask,4
+bxhvo7,1,Ask me anything.,ask,4
+9l6o2c,1,Ask me anything,ask,3
+7dkb57,1,Anyone feel the same way?,feel,6
+9he8js,1,Anyone else feel the same?,feel,6
+qlivoh,1,Anyone else feel the same?,feel,6
+ijmx1q,1,Anyone else feel the same?,feel,6
+84tkg4,0,Does anyone feel the same way?,feel,7
+8o7y06,1,Anyone else feel the same way?,feel,7
+72u5j7,1,Anyone else feel the same?,feel,6
+l0mry8,1,Anyone else feel the same?,feel,6
+g8dd16,1,Anybody else feel the same way?,feel,7
+cio67q,1,Anyone else feel the same?,feel,6
+i57vya,0,I failed my driving test,fail,5
+a7ygvf,0,I just failed my driving test...,fail,7
+n9tipg,0,Failed my driving test,fail,4
+e62yd5,0,Just failed my driving test,fail,5
+8tma7w,0,I failed my driving test,fail,5
+bcal2m,0,Failed my driving test,fail,4
+fh667o,0,I failed my driving test :/,fail,6
+9dn846,0,Just failed my driving test.,fail,6
+jcuupn,0,Just failed my driving test :(,fail,6
+78v5rg,0,I just failed me driving test,fail,6
+golm7b,0,I got my dream job,get,5
+l87kdi,0,Got my dream job!,got,5
+an7qxp,0,I landed my dream job!!!,land,8
+hbe7gf,0,Got my dream job this week,got,6
+d1bzj7,0,I finally got my dream job!,get,7
+jf4k3g,0,I got my dream job today!,get,7
+pc7rfh,0,I finally got the job I actually want!,get,9
+hit:574_conv:1148_uttr:1,1,I got the job of my dreams today!,get,9
+j3lj4b,0,I got my dream job today,get,6
+kfrcpw,0,Just got my dream job!,got,6
+6kxypn,1,Let's talk about anything and everything.,let,8
+67e0h9,0,Lets talk about anything!,talk,5
+7rkj20,0,Let's talk about anything and everything!,let,8
+90scra,0,Let's talk about anything!,let,6
+cgeaij,0,Let's talk about anything.,let,6
+6pu0u7,1,Let's talk about anything!,let,6
+87kzg1,0,Let’s talk about anything,let,5
+76afcy,1,Lets talk about anything.,talk,5
+89l9rq,1,Let’s talk about anything!,let,6
+g3dzt7,0,Lets talk about anything,talk,4
+8o3iff,0,What movie should I watch?,watch,6
+o07dgp,0,What movie should I watch right now?,watch,8
+601ozp,0,What movie should I watch tonight?,watch,7
+amkhpr,1,What movie should I watch today?,watch,7
+pgyvk2,0,What movie should I watch right now?,watch,8
+aobosn,0,Which movie should I watch tonight?,watch,7
+6qxpww,0,What movie should I watch tonight?,watch,7
+8kxmwt,0,What movie should I see tomorrow?,see,7
+7rnrrv,0,What movie should I watch tonight?,watch,7
+6qxsgd,0,What movie should I watch tonight?,watch,7
+5xujch,1,Anyone want to talk?,want,5
+6fhqo7,1,Who wants to talk ?,want,5
+8k7wc5,1,Anyone wanna talk?,talk,4
+6wdh2f,1,Anyone wanna talk?,talk,4
+cexnys,1,Anyone wanna talk?,talk,4
+70ifcw,1,Anyone wanna talk?,talk,4
+fjg0gw,1,Anyone wanna talk?,talk,4
+5xr44k,1,Does anyone want to talk?,want,6
+739iwg,1,Anyone want to talk?,want,5
+6l462b,1,Anyone wanna talk?,talk,4
+97kj89,0,How do you make new friends in your 20s?,make,10
+imxdn1,0,Making Friends as an Adult,make,5
+72gf6p,0,How do you guys make friends as adults?,make,9
+g6g2gf,0,How does one make friends as an adult?,make,9
+8q1dtz,0,How do you make friends as an adult?,make,9
+9dw4mo,0,How do adults make friends?,make,6
+okf04o,0,How do you make new friends in your mid 20s?,make,11
+bu96gp,0,How do you make friends as an adult?,make,9
+qgx8tk,0,Making friends as an adult,make,5
+oi3tyg,0,How do I make a friend as an adult?,make,10
+hit:11762_conv:23525_uttr:1,1,my grandmother passed yestserday.,pass,5
+9fdvpw,0,My Grandma just died.,die,5
+hit:1181_conv:2362_uttr:1,1,"My grandmother, who raised me, just passed away unexpectedly.",pass,12
+5n6oi9,0,My grandma passed away this morning.,pass,7
+hit:10131_conv:20262_uttr:1,1,My wife's grandmother passed on a couple weeks ago.,pass,11
+7vycay,0,My grandma passed away earlier.,pass,6
+hit:8006_conv:16013_uttr:1,1,Recently my grandma passed away.,pass,6
+hit:9297_conv:18595_uttr:1,1,my mother passed last week.,pass,6
+8bhqaa,1,My grandma passed away a few hours ago.,pass,9
+hit:9403_conv:18807_uttr:1,0,my grandmother passed away last week.,pass,7
